@@ -1,0 +1,9 @@
+Personaggi:
+
+Bastiano Ardizzone -> detto l'inquisitore di Firenze, è il nostro capo.
+
+Gregorio Santarosa -> capo dell'inquisizione, uomo più potente d' Italia.
+
+Papa Leone XIV -> papa attuale, succede papa Leone XIII, scrive la bolla papale che da' inizio alla inquisizione, con il Decalogus Fedelis ne aumenta i poteri.
+
+
