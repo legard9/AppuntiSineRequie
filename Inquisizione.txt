@@ -1,4 +1,4 @@
-INQUISIZIONE
+ORGANIZZAZIONE DELL' INQUISIZIONE
 
 Nasce nel 1949 dalla bolla papale di papa Leone XIV.
 
@@ -22,5 +22,73 @@ Laici:
 -Notai -> accompagnano sempre gli inquisitori a cui sono assegnati e registrano ogni fatti, sopratutto a beneficio dei tribunali.
 
 
-altro
--excubitor -> carabinieri.
+
+DECALOGO DELL' INQUISITORE
+
+
+DENUNCIE
+-da un ecclesiastico, tramite missiva indirizzata al GI, può essere fatta da Abati/Badesse/Vescovi/Cardinali. Richieste di aiuto da parte di figure minori vanno inoltrate ai superiori che provvederanno a scrivere la lettera.
+
+-per denuncia del commisario del Santo Uffizio (spia).
+
+-per richiesta dell'Inquisitore in seguito alla contravvenzione del Decalogus Fidelis.
+
+INVESTIGAZIONE
+Durante l'investigazione l'inquisitore può requisire qualsiasi bene a sua discrezione, questo verrà risarcito al cittadino.
+
+ARRESTO
+Un sospetto può essere arrestato anche non dall'inquisitore/notaio ma l'arresto deve essere confermato entro 12 ore da uno di questi.
+Durante l'arresto possono essere utilizzati i metodi ritenuti necessari, basta che sia presente anche il notaio.
+
+VIOLENZA E TORTURE
+La violenza può essere utilizzata in questi casi:
+
+-Autodifesa.
+
+-In risposta alla resistenza all'arresto.
+
+-come metodo per "raggiungere la Santa Verità", quindi in relazione a qualsiasi situazione moralizzante o per ottenere informazione nel caso di presunta violazione del Decalogo Fidelis o nel corso di un interrogatorio.
+
+Ovviamente ognuno di questi atti deve essere proporzionato alla situazione e annotato dal notaio precisamente.
+
+
+TRIBUNALE INQUISITORIALE
+E' obbligatorio informare il Vescovo della presenza del Tribunale Inquisitoriale nella sua diocesi, deve comprendere sempre l'inquisitore, il notaio e l'imputato. Inoltre ogni tribunale deve essere convalidato dal Gran Inquisitore (spesso prima che inizi l'investigazione).
+
+
+DECALOGO DEL NOTAIO
+
+Ha il compito di redigere i Registri Notarili in cui appunta tutto ciò che accade durante le varie fasi dall'investigazione alla fine del processo.
+
+Indices Indaginis, catalogo degli indizi, prove e deposizioni tenute dentro e fuori il Tribunale.
+
+Alla fine di ogni Tribunale gli Indices vanno inviati al PICMO dove vengono copiati, una copia andrà al Consilium dove viene studiata e nel caso di errori, negligenze o scorrettezze l'inquisitore assieme al suo notaio vengono chiamati immediatamente a Roma per chiarimenti davanti a un Tribunale Inquisioriale.
+
+
+GIUDIZI E PENE
+
+ERESIA: professare qualsiasi culto cristiano che viola una delle regole della Chiesa.
+Le discordanze possono essere Teologiche, Morali o Giuridiche.
+PENE CONSIGLIATE: 
+- Per il capo della Setta -> dalla rimozione della lingua tramite pinze arroventate al rogo.
+- Per i promulgatori delle idee -> dallo slogamento della mascella a bastonate al rogo.
+- Per i semplici seguaci -> dalla grazia (dopo sottomissione alla Chiesa) al rogo. (Di solito 2 frustate in pubblico)
+
+
+STREGONERIA: culto/predicazione di una forma religiosa estranea al cristianesimo. Gli ebrei sono tollerati ufficialmente anche se subiscono discriminazioni costanti.
+PENE CONSIGLIATE:
+- Per lo stregone/strega -> dalle nerbate in piazza al rogo
+- Per i promulgatori -> frustate in pubblica piazza e multa in Scudi da versare alla curia vescovile
+
+
+REATI COMMESI DA ECCLESIASTICI: tutti gli ecclesiastici che commettono reati (a parte i templari) vengono giudicati dall'inquisizione.
+PENE CONSIGLIATE:
+- Per l'ecclesiastico -> dal pagamento di una multa alla curia al rogo. Sospensione temporanea o definitiva.
+- Per coloro che hanno aiutato l'ecclesiastico -> dalla multa al rogo.
+
+
+REATI COMMESSI CONTRO L'INQUISIZIONE: rari, spesso solo se concomitanti con altri reati punibili dall'inquisizione.
+
+ATEISMO
+Gli atei che si dichiarano tali sono puniti progressivamente con multe, percosse in pubblico fino al rogo se non arriva la ritrattazione.
+Gli atei non dichiarati, cioè che formalmente professano fede cristiana ma non partecipano al culto sono puniti con "lo schiaffo del Brav'uomo" in pubblica piazza. 
