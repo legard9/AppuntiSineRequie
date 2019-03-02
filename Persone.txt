@@ -1,4 +1,4 @@
-Personaggi:
+Personaggi Giocanti:
 
 Enrico Sganassi -> Nasce da famiglia di comunisti. Perde la famiglia e viene accolto in un convento. Diventa  monaco agostiniano e fa la spia durante il fascismo. Meticoloso, freddo e dedito alla causa. Diventa zoppo durante un bombardamento. E' sostenitore della presa del potere del papa nella penisola. Arrivato a Roma viene a contatto con i frati Inquisitori dove capisce quale sia la sua strada. E' un michelita (setta all'interno degli inquisitori che non abbraccia appieno le tesi della chiesa sui morti).
 
@@ -6,6 +6,8 @@ Giorgio Centomani -> Nasce da una prostituta in una casa chiusa. Non ha una istr
 
 Alberto Bocchio -> nasce come finanziere. Diserta e appena possibile si associa alla inquisizione a Siena prima e poi a Firenze.
 
+
+Personaggi Storia:
 
 Renato da Chianciano -> gran maestro dell'ordine dei templari
 
@@ -25,4 +27,8 @@ Gabriele Tesse -> gesuita, braccio destro dell'arcivescovo Paoli, stratega.
 
 Iolanda d'Aquino -> portavoce degli Excubitores (di Firenze). 
 
+Beppino Verdi -> ubriacone, caro amico, ex commerciante. Allontanato dal bordello.
 
+Ferdinando Luzzi -> strane perversioni, si accompagna a volte con Gregorio Luzzi, si suicida una volta entrati nella villa. (Orafo ? ). Entra nella capanna all'una di notte.
+
+Gregorio Olmi -> amico di Ferdinando Luzzi, ragioniere, maltratta prostitute.
