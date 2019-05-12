@@ -1,41 +1,74 @@
-Personaggi Giocanti:
+PERSONAGGI GIOCANTI:
 
-Enrico Sganassi -> Nasce da famiglia di comunisti. Perde la famiglia e viene accolto in un convento. Diventa  monaco agostiniano e fa la spia durante il fascismo. Meticoloso, freddo e dedito alla causa. Diventa zoppo durante un bombardamento. E' sostenitore della presa del potere del papa nella penisola. Arrivato a Roma viene a contatto con i frati Inquisitori dove capisce quale sia la sua strada. E' un michelita (setta all'interno degli inquisitori che non abbraccia appieno le tesi della chiesa sui morti).
+Enrico Sganassi -> Nasce da famiglia di comunisti. Perde la famiglia e viene accolto in un convento. Diventa  monaco agostiniano e 
+fa la spia durante il fascismo. Meticoloso, freddo e dedito alla causa. Diventa zoppo durante un bombardamento. E' sostenitore 
+della presa del potere del papa nella penisola. Arrivato a Roma viene a contatto con i frati Inquisitori dove capisce quale sia la 
+sua strada. E' un michelita (setta all'interno degli inquisitori che non abbraccia appieno le tesi della chiesa sui morti).
 
-Giorgio Centomani -> Nasce da una prostituta in una casa chiusa. Non ha una istruzione, inizia a lavorare lì e una volta morta la madre finisce in strada. Inizia come accattone e finisce a formare una banda rubando ed imbrogliando. Dopo il risveglio dei morti diventa un assassino. Cade in disgrazia quando viene sorpreso con prostitute. Diventa così un excubitores per scappare alla prigione. 
+Giorgio Centomani -> Nasce da una prostituta in una casa chiusa. Non ha una istruzione, inizia a lavorare lì e una volta morta la
+madre finisce in strada. Inizia come accattone e finisce a formare una banda rubando ed imbrogliando. Dopo il risveglio dei morti 
+diventa un assassino. Cade in disgrazia quando viene sorpreso con prostitute. Diventa così un excubitores per scappare alla 
+prigione. 
 
 Alberto Bocchio -> nasce come finanziere. Diserta e appena possibile si associa alla inquisizione a Siena prima e poi a Firenze.
 
+-------------------------------------------------------------------------------------------------------------
 
-Personaggi Storia:
+RELIGIOSI:
 
 Renato da Chianciano -> gran maestro dell'ordine dei templari
 
-Bastiano Ardizzone -> detto l'inquisitore di Firenze, è il nostro capo. 75 anni, scheletrico, è su una sedia a rotelle. Aspetto solenne ed autorevole.
+Bastiano Ardizzone -> detto l'inquisitore di Firenze, è il nostro capo. 75 anni, scheletrico, è su una sedia a rotelle. Aspetto 
+    solenne ed autorevole.
 
 Don Lucio Ferretti -> padre semplice forse implicato in un bordello.
 
 Gregorio Santarosa -> capo dell'inquisizione, uomo più potente d'Italia.
 
-Papa Leone XIV (italo de grandi)-> papa attuale, succede papa Leone XIII, scrive la bolla papale che da' inizio alla inquisizione, con il Decalogus Fedelis ne aumenta i poteri.
-
-Giovanni Ripamonti -> medico di Spoleto con agganci importanti, salva Georgi e lo porta a Firenze
+Papa Leone XIV (italo de grandi)-> papa attuale, succede papa Leone XIII, scrive la bolla papale che da' inizio alla inquisizione,
+    con il Decalogus Fedelis ne aumenta i poteri.
 
 Marco Alessandro Paoli -> arcivescovo di firenze
 
 Gabriele Tesse -> gesuita, braccio destro dell'arcivescovo Paoli, stratega.
 
+Isaia Sprenger (frate dei corvi) -> inquisitore, porta con se una bara con la sua corona spinarum. Avvezzo alla forza 
+
+-------------------------------------------------------------------------------------------------------------
+
+LAICI: 
+
+Giovanni Ripamonti -> medico di Spoleto con agganci importanti, salva Georgi e lo porta a Firenze
+
 Iolanda d'Aquino -> portavoce degli Excubitores (di Firenze). 
 
 Beppino Verdi -> ubriacone, caro amico, ex commerciante. Allontanato dal bordello.
 
-Ferdinando Luzzi (Asmodeo) -> strane perversioni, si accompagna a volte con Gregorio Luzzi, si suicida una volta entrati nella villa. 
-    Orafo. Entra nella capanna all'una di notte. Ha un laboratorio sul ponte Vecchio. 
+Il Libraio (maestro la Fi) -> ha letto la PseudoMonarchia, esperto di oggetti mistici/maledetti.
+
+--------------------------------------------------------------------------------------------------------------
+
+SEGUACI SETTA:
+
+Ferdinando Luzzi (Asmodedo/Malacoda ?) -> orefice, strane perversioni, si accompagna a volte con Gregorio Luzzi, si suicida una volta 
+    entrati nella villa. Orafo. Entra nella capanna all'una di notte. Ha un laboratorio sul ponte Vecchio. 
 
 Gregorio Olmi (Astarotte) -> amico di Ferdinando Luzzi, ragioniere, maltratta prostitute. Vive vicino al duomo da solo.
 
+Malacoda -> seguace della setta 
 
+Uomo Nerboruto (Malacoda ?) -> sembra con qualche demenza, presente la sera della morte di Olmi.
 
+Donna Misteriosa (Lilith ?) -> bella donna 
 
+Uomo Misterioso -> 
 
+Asmodeo -> scaltro, viscido, infido
 
+Astarotte -> folle, devoto alla violenza
+
+Lilith -> demone donna
+
+Malacoda -> violento e sadico 
+
+Belzebub -> uno dei generali dei demoni, corpo umano, testa di elefante con la peste.
